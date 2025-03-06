@@ -1,0 +1,14 @@
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\bin\Debug\net7.0\Variables_Williston_Angus.exe
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\bin\Debug\net7.0\Variables_Williston_Angus.deps.json
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\bin\Debug\net7.0\Variables_Williston_Angus.runtimeconfig.json
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\bin\Debug\net7.0\Variables_Williston_Angus.dll
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\bin\Debug\net7.0\Variables_Williston_Angus.pdb
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.AssemblyInfoInputs.cache
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.AssemblyInfo.cs
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.csproj.CoreCompileInputs.cache
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.dll
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\refint\Variables_Williston_Angus.dll
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.pdb
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\Variables_Williston_Angus.genruntimeconfig.cache
+C:\Users\AngusWilliston\source\repos\Variables_Williston_Angus\obj\Debug\net7.0\ref\Variables_Williston_Angus.dll
